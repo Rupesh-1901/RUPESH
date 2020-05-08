@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Internship</string>
+    <string name="show_name">Show name</string>
+    <string name="enter_registration_number">Enter registration number</string>
+</resources>
