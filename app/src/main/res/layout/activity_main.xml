@@ -29,7 +29,7 @@
         android:layout_width="186dp"
         android:layout_height="74dp"
         android:layout_marginBottom="426dp"
-        android:background="#BF3737"
+        android:background="#BF3742"
         android:text="@string/show_name"
         android:textAppearance="@style/TextAppearance.AppCompat.Large"
         app:layout_constraintBottom_toBottomOf="parent"

@@ -2,6 +2,7 @@ package com.example.internship;
 
 import androidx.appcompat.app.AppCompatActivity;
 
+import android.graphics.Color;
 import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
@@ -30,6 +31,7 @@ public class MainActivity extends AppCompatActivity {
        button.setOnClickListener(new View.OnClickListener() {
             @Override
             public void onClick(View v) {
+                button.setBackgroundColor(Color.parseColor("#FF3CBF37"));
                 String idNumber = editText.getText().toString().trim();
                 textView.setText(name);
 
